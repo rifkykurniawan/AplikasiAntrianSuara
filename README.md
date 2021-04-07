@@ -1,2 +1,1 @@
 # AplikasiAntrianSuara
-# AplikasiAntrianSuara
